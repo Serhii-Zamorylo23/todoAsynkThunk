@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoAsynkThunk/static/css/main.f855e6bc.css",
+    "main.js": "/todoAsynkThunk/static/js/main.617bf8bf.js",
+    "index.html": "/todoAsynkThunk/index.html",
+    "main.f855e6bc.css.map": "/todoAsynkThunk/static/css/main.f855e6bc.css.map",
+    "main.617bf8bf.js.map": "/todoAsynkThunk/static/js/main.617bf8bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.617bf8bf.js"
+  ]
+}
